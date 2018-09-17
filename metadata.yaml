@@ -1,0 +1,30 @@
+_repo: The-Christian-Mythology_52414
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leatherbee, E. B. (Ethel Brigham)
+    alias: Leatherbee, Ethel Brigham
+    birthdate: 1878
+    deathdate: 1955
+    gutenberg_agent_id: '46844'
+    url: http://www.gutenberg.org/2009/agents/46844
+description: ''
+gutenberg_issued: '2016-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Mythology'
+- !lcsh 'Christianity and other religions'
+- GITenberg
+tableOfContents: The virgin birth -- Pagan miracles -- Spurious relics -- Trial and
+  execution myths -- Distorted prophecies -- The resurrection -- Miracles -- Atonement
+  and salvation by faith -- The trinity; Mariolatry -- Saints; good and evil spirits
+  -- Religious holidays and rites -- The eucharist -- Spread of Christianity.
+title: The Christian Mythology
+url: http://www.gutenberg.org/ebooks/52414
